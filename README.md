@@ -5,7 +5,7 @@
 
 ![Zi-yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zi-yoon&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-yoon&layout=compact 스타일&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-yoon&layout=compact&theme=dracula)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingzi)](https://solved.ac/mingzi)
