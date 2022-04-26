@@ -9,8 +9,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingzi)](https://solved.ac/mingzi)
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![42](https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white)
-<img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+![42](https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
