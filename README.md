@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Zi-yoon(Ming-zi)%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zi-Yoon%5(Ming-Zi)i&fontSize=90)
 
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
 
