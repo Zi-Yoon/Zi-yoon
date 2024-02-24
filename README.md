@@ -3,8 +3,8 @@
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
     <p align="center">
-        <img src="https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec" width="200" height="200">
-        <img src="https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/58752a03-a7f0-4d43-a01c-8b113d025b4b">
+        <img src="https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec" width="100" height="100">
+        <img src="https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/58752a03-a7f0-4d43-a01c-8b113d025b4b" height="100">
     </p> 
 </div>
 
