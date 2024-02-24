@@ -1,6 +1,5 @@
-<div align="center">
-    ![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Zi-Yoon%20&color=0:D091F6,100:B291F6&fontSize=90&fontColor=534866&animation=fadeIn)
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Zi-Yoon%20&color=0:D091F6,100:B291F6&fontSize=90&fontColor=534866&animation=fadeIn)
+
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
