@@ -3,7 +3,7 @@
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
     <p align="center">
-        <img src="![verilog-svgrepo-com](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec)">
+        <img src="https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec">
     </p> 
     ![Xilinx](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/58752a03-a7f0-4d43-a01c-8b113d025b4b)
 </div>
