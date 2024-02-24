@@ -2,10 +2,10 @@
 
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
-    ![verilog-svgrepo-com](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec)
-    ![Xilinx](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/58752a03-a7f0-4d43-a01c-8b113d025b4b)
+    
 </div>
-
+![verilog-svgrepo-com](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/1ffde2b7-8b99-447d-b7db-3600ab20ebec)
+![Xilinx](https://github.com/Zi-Yoon/Zi-yoon/assets/80300035/58752a03-a7f0-4d43-a01c-8b113d025b4b)
 <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Yoon&layout=compact)
