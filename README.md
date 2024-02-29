@@ -17,7 +17,7 @@
 <h3 align="center">👉 Now 👈</h3>
 <div align="center">
     <p align="center">
-        Soongsil University Electronic Information Engineering Senior
+        Soongsil University School of Electronic Engineering Senior
     </p>
     <p align="center">
         Looking for Graduate school
