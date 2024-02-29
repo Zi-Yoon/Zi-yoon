@@ -1,12 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Zi-Yoon%20&color=0:D091F6,100:B291F6&fontSize=90&fontColor=534866&animation=fadeIn)
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&text=Zi-Yoon%20&color=0:D091F6,100:B291F6&fontSize=90&fontColor=534866&animation=fadeIn" /></h3>
 
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
     <p align="center">
-        Verilog HDL & Vivado Xilinx Tool
+        Verilog HDL | Vivado | Quartus | FPGA | C | Assembly
     </p>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Yoon&layout=compact)
+<h3 align="center">🔍 I was.. 🔍</h3>
+<div align="center">
+    <p align="center">
+        42Seoul 5th Cadet : byan
+    </p>
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZi-yoon%2Fhit-counter&count_bg=%23FBB4F3&title_bg=%23BB8CD7&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3 align="center">👉 Now 👈</h3>
+<div align="center">
+    <p align="center">
+        Soongsil University Electronic Information Engineering Senior
+    </p>
+    <p align="center">
+        Looking for Graduate school
+    </p>
+</div>
