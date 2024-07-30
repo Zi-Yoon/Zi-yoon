@@ -10,16 +10,16 @@
 <h3 align="center">🔍 I was.. 🔍</h3>
 <div align="center">
     <p align="center">
-        42Seoul 5th Cadet : byan
+        42Seoul 5th Cadet: byan
     </p>
 </div>
 
 <h3 align="center">👉 Now 👈</h3>
 <div align="center">
     <p align="center">
-        Soongsil University School of Electronic Engineering Grade 4
+        Senior of Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Looking for Graduate school
+        Looking for Graduate school or employment
     </p>
 </div>
