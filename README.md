@@ -20,6 +20,6 @@
         Senior of Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Looking for a Graduate School
+        Looking for a Graduate School & Job
     </p>
 </div>
