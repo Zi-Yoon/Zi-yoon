@@ -20,6 +20,6 @@
         Senior of Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Looking for a Graduate School & Job
+        Working at Pebble-Square as Degital Design Engineer
     </p>
 </div>
