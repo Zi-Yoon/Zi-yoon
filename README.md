@@ -17,7 +17,7 @@
 <h3 align="center">👉 Now 👈</h3>
 <div align="center">
     <p align="center">
-        Senior of Soongsil University (IT Convergence Major)
+        Bachelor at Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
         Working at Pebble-Square as Degital Design Engineer
