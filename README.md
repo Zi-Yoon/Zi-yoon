@@ -11,6 +11,7 @@
 <div align="center">
     <p align="center">
         42Seoul 5th Cadet: byan
+        Worked at Pebble-Square as Degital Design Engineer
     </p>
 </div>
 
@@ -20,6 +21,6 @@
         Bachelor at Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Working at Pebble-Square as Degital Design Engineer
+        Looking for a lab for a master's or integrated course
     </p>
 </div>
