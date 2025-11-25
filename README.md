@@ -11,6 +11,8 @@
 <div align="center">
     <p align="center">
         42Seoul 5th Cadet: byan
+    </p>
+    <p align="center">
         Worked at Pebble-Square as Degital Design Engineer
     </p>
 </div>
