@@ -23,6 +23,6 @@
         Bachelor at Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Looking for a lab for a master's or integrated course
+        Looking for a Job or lab for a master's course
     </p>
 </div>
