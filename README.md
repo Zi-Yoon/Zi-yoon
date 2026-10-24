@@ -23,6 +23,6 @@
         Bachelor at Soongsil University (IT Convergence Major)
     </p>
     <p align="center">
-        Working at EdgeAI as AI Semiconductor Researcher (Engineer)
+        Working at edgeAI as AI Semiconductor Researcher (Engineer)
     </p>
 </div>
